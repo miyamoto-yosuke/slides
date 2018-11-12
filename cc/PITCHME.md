@@ -58,6 +58,9 @@ Note:
 ### リポジトリ内の「sample.js」を読み込んで表示してます
 ---?code=sample.js
 
+---
+
+## Page 5
 
 ### 指定したコードだけハイライト表示
 ```
@@ -71,12 +74,18 @@ console.log( str3 );
 ```
 @[2](flagに「true」を代入)
 
+---
+
+## Page 6
+
 ### 順番にアニメーション表示
 - Java
 - JavaScript |
 - Kotlin |
 - Go |
 - Scala |
+
+---
 
 ## Fin
 
